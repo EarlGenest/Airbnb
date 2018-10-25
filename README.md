@@ -1,24 +1,15 @@
-# README
+Projet réalisé à Rennes par Charles Genestoux en partenariat avec la team  , je serais dispo vers 9h30 pour les corrections ! 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+1-) clone mon repo
 
-Things you may want to cover:
+2-) Bundle install mamène 
 
-* Ruby version
+3-) Place toi dans le dossier et lance un p'tit rails db:seed (même si j'ai quelques bugs je crois) 
 
-* System dependencies
 
-* Configuration
+Bonne correction ! 
 
-* Database creation
+la biz'
 
-* Database initialization
+slack id : UD286R5N1
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
